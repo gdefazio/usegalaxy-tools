@@ -232,3 +232,7 @@ tools:
   owner: iuc
 - name: kmetashot
   owner: lmansi
+- name: mash_paste
+  owner: iuc
+- name: mash_dist
+  owner: iuc

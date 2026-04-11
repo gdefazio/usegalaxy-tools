@@ -55,6 +55,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 5c25c98e2a88
   - 7a6034296ae9
   - 7def34e6cf4d
@@ -301,6 +302,7 @@ tools:
   - 8890e2d4c068
   - a7617eb92baf
   - b40e2d865d52
+  - c8bc9d08b0e3
   - cae2794d2deb
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM

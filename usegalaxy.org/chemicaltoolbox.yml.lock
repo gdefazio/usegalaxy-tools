@@ -565,6 +565,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity

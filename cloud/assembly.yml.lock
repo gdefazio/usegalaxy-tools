@@ -35,6 +35,7 @@ tools:
 - name: gfastats
   owner: bgruening
   revisions:
+  - 10dc0f5a82e2
   - 3ef480892a9f
   - 59150c883ed5
   - 764f2516d837

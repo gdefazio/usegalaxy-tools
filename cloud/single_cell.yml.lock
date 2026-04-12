@@ -50,6 +50,7 @@ tools:
   owner: iuc
   revisions:
   - 13cf83ced60c
+  - 3701d29f7105
   - 55e35e9203cf
   - 923dcc644832
   - 93dd15e13e6a
@@ -76,6 +77,7 @@ tools:
   - 9bd945a03d7b
   - be1fdce914c6
   - d1e49c3c0aa2
+  - d9948b3dd270
   - ed4996a16f7f
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -259,6 +261,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510

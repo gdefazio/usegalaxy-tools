@@ -54,6 +54,7 @@ tools:
   - 350c736075eb
   - 480ddbd12a03
   - 65b93b623c77
+  - 8276962186f2
   - a626e8c0e1ba
   - c59d48774d03
   - d60c3f704da0
@@ -198,6 +199,7 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -327,6 +329,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 0d9cd7b02f14
   - 1dfbdcbf604b
   - 1f296803dfa3
   - 41b2ad601cf0
@@ -375,6 +378,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: filter_by_fasta_ids

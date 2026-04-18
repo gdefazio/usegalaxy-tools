@@ -207,6 +207,7 @@ tools:
   owner: richard-burhans
   revisions:
   - 4f85da43b40c
+  - 8994fea8fbde
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -560,6 +561,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

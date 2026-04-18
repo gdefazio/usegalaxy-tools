@@ -53,6 +53,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00b2ee48b412
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -354,6 +355,7 @@ tools:
   - 237ae72d58a3
   - 2d032cff49eb
   - 4335cec181ba
+  - 4ee087eeda62
   - 6adef419e041
   - 7696d389675c
   - 87cb9cb44d1f
@@ -386,6 +388,7 @@ tools:
   - 1c25f305db70
   - 734c66aa945a
   - 8e447b95e6a8
+  - 9084156b2bb5
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -408,6 +411,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - fc0f9ba14aaa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
@@ -433,6 +437,7 @@ tools:
   - 2d53571c2f00
   - 612ca26c197d
   - 61634a87efc7
+  - 89f11e2b0673
   - a4f18bbb4eca
   - caeb57858702
   - f93f0cdbaf18
@@ -443,6 +448,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
   - 6fabdcde0214

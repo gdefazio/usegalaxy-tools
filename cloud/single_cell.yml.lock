@@ -50,6 +50,7 @@ tools:
   owner: iuc
   revisions:
   - 13cf83ced60c
+  - 3701d29f7105
   - 55e35e9203cf
   - 923dcc644832
   - 93dd15e13e6a
@@ -61,6 +62,7 @@ tools:
   owner: iuc
   revisions:
   - 0cb889db0910
+  - 4009b2de324d
   - 707023fa62fe
   - 83609ef746e9
   - cfaf5a405371
@@ -76,6 +78,7 @@ tools:
   - 9bd945a03d7b
   - be1fdce914c6
   - d1e49c3c0aa2
+  - d9948b3dd270
   - ed4996a16f7f
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -94,6 +97,7 @@ tools:
   - 33c0081e16c6
   - 688357ad5e61
   - 6f0d0c784f09
+  - a54b3bac44aa
   - afe044e6bc93
   - ee98d611afc6
   tool_panel_section_id: single_cell
@@ -103,6 +107,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 70228646a181
   - a7b951572609
   - c822c5c1feef
   - e98619de2776
@@ -278,6 +283,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 9f354c7c8c92
@@ -290,6 +296,7 @@ tools:
   - 1072ce66b426
   - 5a5468c0d26f
   - 62acdd96d4a0
+  - 7f478b3258ec
   - a8f865950ac4
   - aa0c474463c2
   tool_panel_section_id: single_cell

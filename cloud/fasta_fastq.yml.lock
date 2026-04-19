@@ -13,6 +13,7 @@ tools:
   - 80766b36005d
   - aa784cb3810d
   - c5e2e5902201
+  - f6168dd17f82
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_filter
@@ -20,11 +21,13 @@ tools:
   revisions:
   - '144275714590'
   - 81a9090d6df3
+  - ff7d49ec777f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_groomer
   owner: devteam
   revisions:
+  - 10d4df6a9d94
   - 47e5dbc3e790
   - e9f8633db0a2
   tool_panel_section_id: fasta_fastq
@@ -54,6 +57,7 @@ tools:
   owner: devteam
   revisions:
   - 2ccb8dcabddc
+  - acb5090e281f
   - b41c2c1bcfbf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -436,6 +438,7 @@ tools:
   owner: iuc
   revisions:
   - 3967889cda03
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly

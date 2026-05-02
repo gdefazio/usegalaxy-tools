@@ -203,6 +203,7 @@ tools:
 - name: bcftools_query
   owner: iuc
   revisions:
+  - 1dc6f1ac7f32
   - 31a1b89eab9b
   - 3b1b51e1fcba
   - 4eb04768cd49
@@ -217,6 +218,7 @@ tools:
 - name: bcftools_plugin_dosage
   owner: iuc
   revisions:
+  - 0c50683a9c94
   - 283911fe7e1a
   - 2ee1392161a6
   - 5c232a738c74
@@ -231,6 +233,7 @@ tools:
 - name: bcftools_annotate
   owner: iuc
   revisions:
+  - 06eaadeffb7d
   - 0f087051441e
   - 2436e3bef247
   - 2c372041ed8c
@@ -247,6 +250,7 @@ tools:
   revisions:
   - 1da985043619
   - 8899a6d50699
+  - 9f69e7d58d03
   - ae68ceb4cca3
   - d237eaef451f
   - e6f4badbe6f3
@@ -261,6 +265,7 @@ tools:
   revisions:
   - 0117c6d2ab96
   - 277719af4dd7
+  - 3502f0e1f0e4
   - 46fcafba49ec
   - 5d6653c989cb
   - 656a916779fe
@@ -381,6 +386,7 @@ tools:
   - bf8325a07ce7
   - c636e58df612
   - ef2cc5ac23bc
+  - fcf941c241cc
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_reheader
@@ -403,6 +409,7 @@ tools:
   - 0c1889b0917b
   - 27e2611639a9
   - 2c53c8974cb3
+  - 42345cc2c76e
   - 6d735d8f0861
   - 75becf493cd3
   - 776ad0b21536
@@ -419,6 +426,7 @@ tools:
   - 348cd212dbad
   - 7ca6120cb2a4
   - 7cea7c7bf203
+  - a20d6492132d
   - b8e9da766b0f
   - cacc9970727a
   - d58d2e8c7a57
@@ -432,6 +440,7 @@ tools:
   - 147de996e34f
   - 8aa352093d73
   - 92182c270ce4
+  - 9a260f6fab93
   - a87ae767b01d
   - d3081540d175
   - d6dc477167f8

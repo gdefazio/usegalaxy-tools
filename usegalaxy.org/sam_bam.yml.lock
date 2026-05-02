@@ -29,6 +29,7 @@ tools:
   revisions:
   - 22970df7a40e
   - 3ed3e1146308
+  - a0d8e49a018c
   - fbc6c28a5b14
   - fe34990e5ce7
   - fefd89ab563c
@@ -55,6 +56,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 5c25c98e2a88
   - 7a6034296ae9
   - 7def34e6cf4d
@@ -259,6 +261,7 @@ tools:
 - name: samtools_fastx
   owner: iuc
   revisions:
+  - 4bde991b8037
   - 66e23b11feae
   - 720217c23995
   - 9038311ed624
@@ -287,6 +290,7 @@ tools:
   - 887e02a45734
   - a312a0fdaf31
   - a389f74c3630
+  - a50321bc1a90
   - b5527cc104ab
   - ce32171c6d44
   - d0a568e1904b

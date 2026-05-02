@@ -84,6 +84,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
   - cc05793bb896
@@ -95,6 +96,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
+  - 1196fc76fdc2
   - 1e3323a44643
   - 20d92dc4c6cb
   - 54f751e413f4
@@ -143,6 +145,7 @@ tools:
   revisions:
   - 0696db066a5b
   - 6a3a025714d3
+  - 6c363db8c702
   - 71bacea10eee
   - 8fe98f7094de
   - 9a882d108833

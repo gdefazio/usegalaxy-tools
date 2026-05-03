@@ -91,6 +91,7 @@ tools:
   owner: iuc
   revisions:
   - 05f317e50e61
+  - c3c930926708
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -98,12 +99,14 @@ tools:
   owner: iuc
   revisions:
   - 012656fd329f
+  - a20d6492132d
   - b8e9da766b0f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_impute_info
   owner: iuc
   revisions:
+  - 42345cc2c76e
   - 776ad0b21536
   - bc5332d47b1c
   tool_panel_section_id: vcf_bcf
@@ -113,6 +116,7 @@ tools:
   revisions:
   - 2331ddcbd5aa
   - 9ef52d95114b
+  - a0b1c0bdfa5a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_stats
@@ -120,6 +124,7 @@ tools:
   revisions:
   - 591cc8518033
   - b17394940c7a
+  - fcf941c241cc
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fill_an_ac
@@ -134,6 +139,7 @@ tools:
   revisions:
   - b10d1510fa84
   - bf7d6acd9884
+  - fea209b23f19
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_isec
@@ -141,6 +147,7 @@ tools:
   revisions:
   - 02f349bdbf96
   - 39bca000353d
+  - 3d21f507fc5d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_merge
@@ -181,6 +188,7 @@ tools:
 - name: bcftools_csq
   owner: iuc
   revisions:
+  - 9f69e7d58d03
   - d237eaef451f
   - fdd127bd4a32
   tool_panel_section_id: vcf_bcf
@@ -188,6 +196,7 @@ tools:
 - name: bcftools_annotate
   owner: iuc
   revisions:
+  - 06eaadeffb7d
   - 2c372041ed8c
   - 403553ae19f6
   tool_panel_section_id: vcf_bcf
@@ -195,6 +204,7 @@ tools:
 - name: bcftools_plugin_dosage
   owner: iuc
   revisions:
+  - 0c50683a9c94
   - 283911fe7e1a
   - 5c232a738c74
   tool_panel_section_id: vcf_bcf
@@ -202,6 +212,7 @@ tools:
 - name: bcftools_query
   owner: iuc
   revisions:
+  - 1dc6f1ac7f32
   - 31a1b89eab9b
   - c9c5718edc19
   tool_panel_section_id: vcf_bcf
@@ -210,6 +221,7 @@ tools:
   owner: iuc
   revisions:
   - 3897eaadfbff
+  - 9268b0ad92af
   - bdfdf5f6e950
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

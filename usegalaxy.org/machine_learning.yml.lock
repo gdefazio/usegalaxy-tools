@@ -47,6 +47,7 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -79,6 +80,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -112,6 +114,7 @@ tools:
   owner: bgruening
   revisions:
   - 1b68acd5ac08
+  - 418cafc53f8e
   - 443471b0a27a
   - 4d1637cac794
   - 8b822484debc
@@ -359,6 +362,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning

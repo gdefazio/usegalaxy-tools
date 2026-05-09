@@ -15,6 +15,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - b734db305578
@@ -69,6 +70,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - c5a90fa4b8dd
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -207,6 +209,7 @@ tools:
   owner: richard-burhans
   revisions:
   - 4f85da43b40c
+  - 8994fea8fbde
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -496,6 +499,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418
@@ -527,6 +531,7 @@ tools:
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -536,6 +541,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -587,6 +593,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
@@ -606,6 +613,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

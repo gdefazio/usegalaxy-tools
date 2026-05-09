@@ -306,6 +306,7 @@ tools:
   - 1ccf0e7fb4f6
   - 427e353bf26f
   - 4d44109ae1f8
+  - acfd6984d130
   - b76adb2f1c51
   - bdc67eeb0bc9
   - cb681f21e670
@@ -432,6 +433,7 @@ tools:
   - 147de996e34f
   - 8aa352093d73
   - 92182c270ce4
+  - 9a260f6fab93
   - a87ae767b01d
   - d3081540d175
   - d6dc477167f8
@@ -449,6 +451,7 @@ tools:
   - 81426b3cf18b
   - 874cc12ae316
   - abd489215f73
+  - c3c930926708
   - d144af39073a
   - d40d4bf05718
   tool_panel_section_id: vcf_bcf

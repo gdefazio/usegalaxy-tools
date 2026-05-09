@@ -318,6 +318,7 @@ tools:
   owner: bgruening
   revisions:
   - 9adf3fae2771
+  - abf3ff7ff5e7
   - c19608db6b15
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -504,6 +505,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter

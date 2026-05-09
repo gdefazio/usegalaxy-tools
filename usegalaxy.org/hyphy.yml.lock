@@ -32,6 +32,7 @@ tools:
   owner: iuc
   revisions:
   - 2318841ec191
+  - 3629cc0115ac
   - 68cd2d8e3840
   - 91cf1290ba6f
   - a88848771d2d
@@ -93,6 +94,7 @@ tools:
 - name: hyphy_cfel
   owner: iuc
   revisions:
+  - 34d2e58b8a1f
   - 3d4ea0544af1
   - 5b63871000c9
   - 643be54bef90
@@ -107,6 +109,7 @@ tools:
   revisions:
   - 079ea2eb9ae4
   - 3ea647006f17
+  - 4c52eab912ea
   - 6569d04885e5
   - 6761212b7f1d
   - 9ce3d6d4bd0e

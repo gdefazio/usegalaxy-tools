@@ -45,6 +45,7 @@ tools:
   owner: devteam
   revisions:
   - 10184eaa85fc
+  - 132036f92aa3
   - 2b7acdca5fe1
   - 3c661e57a88f
   - 69aa7277b44c
@@ -55,6 +56,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 5c25c98e2a88
   - 7a6034296ae9
   - 7def34e6cf4d
@@ -237,6 +239,7 @@ tools:
   revisions:
   - 9b520009db81
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag

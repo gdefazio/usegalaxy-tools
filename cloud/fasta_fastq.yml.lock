@@ -47,6 +47,7 @@ tools:
   owner: devteam
   revisions:
   - 523c2aff0376
+  - c48cf4699be7
   - f3936d0632cb
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

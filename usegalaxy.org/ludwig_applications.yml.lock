@@ -41,6 +41,7 @@ tools:
   - afc8ed4a1838
   - b0627acfa4f4
   - cda3d431d237
+  - d6606c4d0d9a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_experiment

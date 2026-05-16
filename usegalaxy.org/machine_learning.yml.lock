@@ -202,6 +202,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -228,6 +229,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 7366e5108e9f
   - 7614281473da
   - b07416ec8d16
@@ -456,6 +458,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554

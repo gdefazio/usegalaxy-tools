@@ -37,6 +37,7 @@ tools:
 - name: maxquant
   owner: galaxyp
   revisions:
+  - 022e886e8f94
   - 163452d1e255
   - 1f39c833f65f
   - 4d17fcdeb8ff
@@ -61,6 +62,7 @@ tools:
 - name: eggnog_mapper
   owner: galaxyp
   revisions:
+  - 02439eb2b37d
   - 9d1fbff733cf
   - d9c3016f7283
   tool_panel_section_id: proteomics

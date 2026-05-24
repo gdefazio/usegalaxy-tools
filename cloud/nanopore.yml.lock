@@ -6,6 +6,7 @@ tools:
 - name: medaka_variant
   owner: iuc
   revisions:
+  - 16fc9856b20a
   - 43815fa60f3a
   - eb746fa6f514
   tool_panel_section_id: nanopore

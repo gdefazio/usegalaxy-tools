@@ -78,6 +78,7 @@ tools:
   revisions:
   - 06dc50b7b711
   - 22c2ab33cec9
+  - 26a85f18dc69
   - 26b4f9f98aca
   - 3d5853a84711
   - 3d873744df7e
@@ -93,6 +94,7 @@ tools:
   - 6856f8a01905
   - 762f63d4e25d
   - 9149ad20699a
+  - cc01c0658f6c
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
@@ -200,6 +202,7 @@ tools:
   revisions:
   - 04866f817daa
   - 4d343c1f606b
+  - 887a9bf73d1a
   - 8eb649e67987
   - 970e6333f07e
   - befc9dad4ca8
@@ -242,6 +245,7 @@ tools:
 - name: bamtools_split_tag
   owner: iuc
   revisions:
+  - a0014762e2ee
   - e30af4e78cd3
   - e9b9c489aacc
   tool_panel_section_id: sam_bam
@@ -259,6 +263,7 @@ tools:
 - name: samtools_fastx
   owner: iuc
   revisions:
+  - 4bde991b8037
   - 66e23b11feae
   - 720217c23995
   - 9038311ed624
@@ -376,6 +381,7 @@ tools:
 - name: samtools_coverage
   owner: iuc
   revisions:
+  - 5160be5d088f
   - c4ff13d2aab3
   - ddbd49b892e5
   - f4f7f632815d

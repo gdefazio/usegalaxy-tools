@@ -85,6 +85,7 @@ tools:
 - name: data_manager_snpeff
   owner: iuc
   revisions:
+  - c3cdca7f40a2
   - def511e8e005
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -98,6 +99,7 @@ tools:
 - name: data_manager_fetch_ncbi_taxonomy
   owner: devteam
   revisions:
+  - 2649aece3781
   - 34a5799a65fa
   - 6dd9e00dea95
   tool_panel_section_id: data_managers
@@ -124,6 +126,7 @@ tools:
 - name: data_manager_build_bracken_database
   owner: iuc
   revisions:
+  - 174a754bd3b6
   - 5c8a23ccb14a
   - 84cc0dc92b0c
   tool_panel_section_id: data_managers
@@ -134,6 +137,7 @@ tools:
   - 19ef193d1316
   - 23511530b8fd
   - 4cd97cc67061
+  - c25818208c77
   - dbf2735e8480
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers

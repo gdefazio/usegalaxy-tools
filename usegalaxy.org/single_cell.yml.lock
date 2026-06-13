@@ -32,6 +32,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -169,6 +170,7 @@ tools:
   - 43cb7b5a6fe7
   - 7e8c677a7b71
   - 8db95f488f0f
+  - 9ef202055d5c
   - be1fdce914c6
   - c4209ea387d4
   - d1e49c3c0aa2
@@ -202,6 +204,7 @@ tools:
   owner: iuc
   revisions:
   - 0bff0ee0683a
+  - 14ac9a11465e
   - 49776718ae90
   - 7e014059a88d
   - a4b734cd253b
@@ -234,6 +237,7 @@ tools:
   - 3478133d0f6f
   - 69018f285aa3
   - 6e90c8adf84f
+  - 9606d2385547
   - a6821f856a1e
   - c8434a623268
   tool_panel_section_id: single_cell
@@ -246,6 +250,7 @@ tools:
   - 44b935f2271b
   - 72979cac22b2
   - e93b008c637a
+  - fe9bf1aa669e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_filter_cells
@@ -677,6 +682,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -689,6 +695,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - f04c81e68e86
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate

@@ -35,6 +35,7 @@ tools:
   - 2ff111fac1d7
   - 37b497aa133f
   - 3e1ea2facca6
+  - bf107d23242b
   - e7f19d6a9af8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -223,6 +224,7 @@ tools:
   - 05afdd33dac7
   - 54a6fb045aea
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

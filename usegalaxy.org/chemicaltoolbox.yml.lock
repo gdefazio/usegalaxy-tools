@@ -70,6 +70,7 @@ tools:
   revisions:
   - 4242b4d68e9c
   - b59c91adeac1
+  - ddbfae6646f9
   - e2c36f62e22f
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -376,6 +377,7 @@ tools:
   revisions:
   - 22a866858b81
   - e376ba0fcde0
+  - f2aef0ee9d78
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_ramachandran_protein
@@ -531,6 +533,7 @@ tools:
   owner: bgruening
   revisions:
   - 274193d6c443
+  - 64e2c5ab51cb
   - 985ab0acd514
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -539,12 +542,14 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
   owner: bgruening
   revisions:
   - 5486f7a2b0cb
+  - d9d5aa013bb4
   - fac2c28b4c55
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -848,5 +853,6 @@ tools:
   owner: recetox
   revisions:
   - 0109f244d25a
+  - 720958b09af4
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

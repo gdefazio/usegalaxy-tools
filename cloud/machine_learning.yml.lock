@@ -42,6 +42,7 @@ tools:
   revisions:
   - 0afd970bd8ae
   - 4bd75b45a7a1
+  - efe3a2d3a31d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: image_learner

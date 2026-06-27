@@ -35,6 +35,7 @@ tools:
   - 2ff111fac1d7
   - 37b497aa133f
   - 3e1ea2facca6
+  - bf107d23242b
   - e7f19d6a9af8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -154,6 +155,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -179,6 +181,7 @@ tools:
   - 090cbf2cb339
   - 371e4e21d5de
   - 544ea81a6914
+  - c05177db395f
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segalign
@@ -202,6 +205,7 @@ tools:
   - 34d51e66256c
   - 3a67d287d19f
   - 43e72105f473
+  - 47c147eb546b
   - 4cd7884635c2
   - 78c4cef2b5a9
   - 79182c2a8c80
@@ -223,6 +227,7 @@ tools:
   - 05afdd33dac7
   - 54a6fb045aea
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

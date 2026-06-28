@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -35,6 +36,7 @@ tools:
 - name: gfastats
   owner: bgruening
   revisions:
+  - 10dc0f5a82e2
   - 3ef480892a9f
   - 59150c883ed5
   - 764f2516d837
@@ -44,6 +46,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
   tool_panel_section_id: assembly

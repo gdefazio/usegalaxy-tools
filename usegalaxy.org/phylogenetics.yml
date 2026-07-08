@@ -1,0 +1,6 @@
+tool_panel_section_label: Phylogenetics
+tools:
+- name: hyphy_cln
+  owner: iuc
+- name: hyphy_cln
+  owner: iuc

@@ -41,11 +41,13 @@ tools:
   - afc8ed4a1838
   - b0627acfa4f4
   - cda3d431d237
+  - d6606c4d0d9a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_experiment
   owner: goeckslab
   revisions:
+  - 124eb5e5c5fc
   - 44267c11e02b
   - 4d0d8859a0f2
   - 5a39f429fad1

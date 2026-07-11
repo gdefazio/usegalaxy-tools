@@ -11,6 +11,7 @@ tools:
   - 212c958f6cee
   - 3b8b5bde0bd9
   - 3f59ebfbfe3d
+  - 3f8261f0a826
   - 4aad5b48d5b2
   - 4cc4dbca2f02
   - 5f2ca10db92a
@@ -312,6 +313,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy

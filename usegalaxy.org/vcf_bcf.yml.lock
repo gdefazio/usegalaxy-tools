@@ -381,6 +381,7 @@ tools:
   - bf8325a07ce7
   - c636e58df612
   - ef2cc5ac23bc
+  - fcf941c241cc
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_reheader
@@ -532,6 +533,7 @@ tools:
   - 34dc0bbc7e93
   - 5d98fe06e4ae
   - 701e01819e52
+  - 793ae03deb13
   - 8b260d252ff4
   - cb7928fcd126
   - dfef7a353ed0

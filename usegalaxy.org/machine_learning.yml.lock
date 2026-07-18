@@ -10,6 +10,7 @@ tools:
   - 11fdac5affb3
   - 209b663a4f62
   - 4bd75b45a7a1
+  - efe3a2d3a31d
   - f6a65e05d6ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

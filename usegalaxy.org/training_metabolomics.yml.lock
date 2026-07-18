@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 545054b15d7c
@@ -128,6 +129,7 @@ tools:
   - 821062fc5782
   - b77023c41c76
   - bf32ae95a06f
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: camera_annotate

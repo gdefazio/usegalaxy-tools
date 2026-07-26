@@ -21,6 +21,7 @@ tools:
   owner: devteam
   revisions:
   - 02026300aa45
+  - 61f9ddbc63ca
   - 6595517c2dd8
   - aff5135563c6
   tool_panel_section_id: text_manipulation
@@ -74,6 +75,7 @@ tools:
   owner: mvdbeek
   revisions:
   - 3284b72eef56
+  - 8a19efbd2178
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: text_processing
@@ -82,6 +84,7 @@ tools:
   - 74a8bef53a00
   - 86755160afbf
   - 9ff72e942410
+  - ab83aa685821
   - c41d78ae5fee
   - d698c222f354
   - ddf54b12c295
@@ -103,6 +106,7 @@ tools:
 - name: jq
   owner: iuc
   revisions:
+  - 4e62e523c2b6
   - 5ff75eb1a893
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation

@@ -141,6 +141,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 0696db066a5b
   - 6a3a025714d3
   - 71bacea10eee
@@ -158,6 +159,7 @@ tools:
   - 4074fc1940e2
   - 44959aa06aeb
   - 53255f6eecfc
+  - 55c9ac3aa8f4
   - 5ec75f5dae3c
   - 79de45b5069b
   - 7ed2edc1337f
@@ -184,6 +186,7 @@ tools:
   - 67b0b160903a
   - 8f6836089479
   - 916cb26bd9d3
+  - fb117b3ee99a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: gffcompare

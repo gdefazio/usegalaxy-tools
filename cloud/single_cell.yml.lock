@@ -74,6 +74,7 @@ tools:
   - 3d748954434b
   - 7e8c677a7b71
   - 9bd945a03d7b
+  - 9ef202055d5c
   - be1fdce914c6
   - d1e49c3c0aa2
   - ed4996a16f7f
@@ -157,6 +158,7 @@ tools:
   - 0bff0ee0683a
   - 49776718ae90
   - a4b734cd253b
+  - d2755d6016ca
   - f911a64454fb
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -250,6 +252,7 @@ tools:
 - name: scanpy_cluster_reduce_dimension
   owner: iuc
   revisions:
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -298,6 +301,7 @@ tools:
   owner: iuc
   revisions:
   - 458d4ab0f894
+  - 80fe16f87825
   - a39040ae0a38
   - bf2017df9837
   - c5541bfb8feb

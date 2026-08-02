@@ -125,6 +125,7 @@ tools:
   - 1ed8ed887035
   - 24c5d43cb545
   - 541082d03bef
+  - 8fca6e1eac98
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
@@ -147,6 +148,7 @@ tools:
   revisions:
   - 06dc50b7b711
   - 22c2ab33cec9
+  - 26a85f18dc69
   - 26b4f9f98aca
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -185,6 +187,7 @@ tools:
 - name: samtools_mpileup
   owner: devteam
   revisions:
+  - 0668270db5ba
   - 7df230bec125
   - b61f5d6a7f25
   - fa7ad9b89f4a

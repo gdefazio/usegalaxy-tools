@@ -53,6 +53,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -88,6 +89,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -162,6 +164,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -177,6 +180,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -202,6 +206,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -228,6 +233,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 7366e5108e9f
   - 7614281473da
   - b07416ec8d16
@@ -290,6 +296,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -318,6 +325,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 55703205546f
@@ -359,6 +367,7 @@ tools:
   - 87cb9cb44d1f
   - 893285b150f8
   - d3e99d3df1ca
+  - dea38330b78a
   - e76f6dfea5c9
   - fc48ce12454b
   tool_panel_section_id: machine_learning
@@ -369,6 +378,7 @@ tools:
   - 14f0ccc85505
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 63417d0acc72
   - 913bf1c4c7bb
   - 91c4e3331208
@@ -386,6 +396,7 @@ tools:
   - 1c25f305db70
   - 734c66aa945a
   - 8e447b95e6a8
+  - a293d7937700
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -475,6 +486,7 @@ tools:
   - c17f3eacdb14
   - caf164dd0e18
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
@@ -482,6 +494,7 @@ tools:
   revisions:
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 818f9b69d8a0
   - e1317b5502fa

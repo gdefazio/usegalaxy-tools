@@ -377,6 +377,7 @@ tools:
   revisions:
   - 408ece2e4647
   - 75b4a2298714
+  - 8e422c873d02
   - 936a1edffce8
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
@@ -477,6 +478,7 @@ tools:
   - 8cffb8fc34f0
   - 8ed44487c834
   - c1c1d894dd3a
+  - cbc4a0eb290a
   - ceeb94f87ba6
   - f695bf165247
   - fdd073110081

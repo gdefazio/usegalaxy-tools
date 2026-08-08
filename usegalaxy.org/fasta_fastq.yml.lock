@@ -54,6 +54,7 @@ tools:
   - 350c736075eb
   - 480ddbd12a03
   - 65b93b623c77
+  - 68386e630362
   - a626e8c0e1ba
   - c59d48774d03
   - d60c3f704da0
@@ -327,6 +328,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 0d9cd7b02f14
   - 1dfbdcbf604b
   - 1f296803dfa3
   - 41b2ad601cf0

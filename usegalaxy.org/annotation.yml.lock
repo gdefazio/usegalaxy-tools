@@ -15,6 +15,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - b734db305578
@@ -69,6 +70,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - c5a90fa4b8dd
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -527,15 +529,18 @@ tools:
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -548,6 +553,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -560,6 +566,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -607,5 +614,62 @@ tools:
   owner: iuc
   revisions:
   - 59d308975e63
+  - 6d5c8a6ceea0
+  - cfe8742b704e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: braker3
+  owner: genouest
+  revisions:
+  - 0be6820e3268
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: remove_terminal_stop_codons
+  owner: iuc
+  revisions:
+  - 0290a7285026
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: drhip
+  owner: iuc
+  revisions:
+  - dd2d60b55e0d
+  - e301c523e83d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: coreprofiler_allele_calling
+  owner: iuc
+  revisions:
+  - b781bb77a985
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: prodigal
+  owner: iuc
+  revisions:
+  - 91791b6ecd38
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: argnorm
+  owner: iuc
+  revisions:
+  - d8e95a03321a
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: mmseqs2_taxonomy_assignment
+  owner: iuc
+  revisions:
+  - bd5630d401cd
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: deeparg_short_reads
+  owner: iuc
+  revisions:
+  - 854b7c026a7e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: groot
+  owner: iuc
+  revisions:
+  - 4d5cf5a423d5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

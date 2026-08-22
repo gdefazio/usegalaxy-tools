@@ -159,6 +159,7 @@ tools:
   - 39e945f0b2c1
   - 6f0d0c784f09
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -192,6 +193,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   - cdf4443d5625
@@ -215,12 +217,14 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - d45f092caf24
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 37a47c4fd84d
   - 41f34e925bd5
   - be4646256624
@@ -549,6 +553,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -637,6 +642,7 @@ tools:
 - name: snapatac2_peaks_and_motif
   owner: iuc
   revisions:
+  - 02a7162fc510
   - 588c811fdd48
   - 64fa083411f1
   - 88192fe25375
@@ -657,6 +663,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5

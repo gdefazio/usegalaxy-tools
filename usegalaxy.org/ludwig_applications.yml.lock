@@ -46,6 +46,7 @@ tools:
 - name: ludwig_experiment
   owner: goeckslab
   revisions:
+  - 124eb5e5c5fc
   - 44267c11e02b
   - 4d0d8859a0f2
   - 5a39f429fad1
@@ -58,6 +59,7 @@ tools:
   revisions:
   - 56c4f4c0c6df
   - 65c50cd5aa13
+  - 93ebd9b0f159
   - d5d69c29d537
   - dd663701df49
   - e3c63770083d

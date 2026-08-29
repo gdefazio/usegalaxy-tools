@@ -75,6 +75,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -251,6 +252,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -316,6 +318,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 306a40d4bb8f
   - 35176674168c
   - 5c865a382933
@@ -554,6 +557,7 @@ tools:
   owner: iuc
   revisions:
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
@@ -968,6 +972,8 @@ tools:
   owner: iuc
   revisions:
   - '102852801457'
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
 - name: kmetashot
   owner: lmansi
   revisions:

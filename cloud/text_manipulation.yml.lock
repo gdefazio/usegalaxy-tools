@@ -6,6 +6,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 6544e4b87a4f
   - 90f657745fea
   tool_panel_section_id: text_manipulation
@@ -22,6 +23,7 @@ tools:
   revisions:
   - 02026300aa45
   - 6595517c2dd8
+  - 9bc5cdefb090
   - aff5135563c6
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -60,6 +62,7 @@ tools:
   revisions:
   - 3bf5661c0280
   - 60ff16842fcd
+  - c656214aa052
   - cd36d6e45e29
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -79,6 +82,7 @@ tools:
 - name: text_processing
   owner: bgruening
   revisions:
+  - 30b60202d990
   - 74a8bef53a00
   - 86755160afbf
   - 9ff72e942410

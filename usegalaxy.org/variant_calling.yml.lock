@@ -26,6 +26,7 @@ tools:
   - 5c7b70713fb5
   - 6322be79bd8e
   - 74aebe30fb52
+  - 908f2c5fedec
   - 9473cd297a76
   - c7275bd8b4d6
   - ca2b512e8d7c
@@ -216,6 +217,7 @@ tools:
   - 287c4af133e6
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -323,6 +325,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

@@ -16,6 +16,7 @@ tools:
 - name: ludwig_hyperopt
   owner: goeckslab
   revisions:
+  - 271ecb35891e
   - 4a63b50a8634
   - a1b91224afb9
   - b486ca953371

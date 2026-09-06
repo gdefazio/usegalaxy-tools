@@ -51,6 +51,7 @@ tools:
   revisions:
   - 13cf83ced60c
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d330b3082107
@@ -63,6 +64,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - cfaf5a405371
   - e1c3c2f2a834
   - f843b9afd94e
@@ -157,6 +159,7 @@ tools:
   - 0bff0ee0683a
   - 49776718ae90
   - a4b734cd253b
+  - d2755d6016ca
   - f911a64454fb
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -192,6 +195,7 @@ tools:
   revisions:
   - 88c07fc4024c
   - a896b8b7d264
+  - d421497303c0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: slice_image
@@ -259,6 +263,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -278,6 +283,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 9f354c7c8c92

@@ -33,6 +33,7 @@ tools:
   - 29662f643859
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_mummer

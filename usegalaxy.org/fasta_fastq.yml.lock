@@ -32,6 +32,7 @@ tools:
   - de6cebe3c043
   - e4691e1589d3
   - f5fdf41c08b8
+  - f6168dd17f82
   - fe74900d6dc7
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -52,14 +53,19 @@ tools:
   - 281054a26e41
   - 3432a0e49b86
   - 350c736075eb
+  - 4557b2da9e7f
   - 480ddbd12a03
   - 65b93b623c77
+  - 68386e630362
+  - 8b1ff0343492
   - a626e8c0e1ba
   - c59d48774d03
   - d60c3f704da0
   - dbf9c561ef29
   - dbfc505896e9
   - e25816738ef3
+  - f875da9d433c
+  - ff33957bf802
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_trimmer
@@ -217,6 +223,7 @@ tools:
   - 10b75444feae
   - '144275714590'
   - 81a9090d6df3
+  - ff7d49ec777f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_combiner
@@ -440,5 +447,17 @@ tools:
   owner: mbernt
   revisions:
   - 9a811adb714f
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: seqkit_translate
+  owner: iuc
+  revisions:
+  - 0d9d8de82304
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: seqkit_split2
+  owner: iuc
+  revisions:
+  - 0c7fadfe52e2
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

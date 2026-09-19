@@ -6,6 +6,7 @@ tools:
 - name: tabular_learner
   owner: goeckslab
   revisions:
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 209b663a4f62
@@ -28,6 +29,7 @@ tools:
   - 1aed7d47c5ec
   - 4a7df9abe4c4
   - 4eca9d109de1
+  - 7363de120cc2
   - afd0864d18b6
   - ccd798db5abb
   - e2a6fed32d54
@@ -46,6 +48,7 @@ tools:
   - 948eca2af157
   - 980bf31faa05
   - 9991c4ddde14
+  - a2d7bdd4e705
   - b237f27a8afc
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
@@ -59,6 +62,7 @@ tools:
   - 2d8478144bb2
   - 4d81e3e2fb63
   - 61a6132df9e0
+  - 7f26886839f1
   - 8a794e6d3388
   - 94d91334c787
   - b9906ce4756c
@@ -292,6 +296,7 @@ tools:
   - 5773e98921fc
   - 6d21b03e00a1
   - 74adae8d7b0f
+  - 83b406104228
   - 96bb4c49e30e
   - a7c667ff83fe
   - ae0fafb53c1d
@@ -320,6 +325,7 @@ tools:
   revisions:
   - 0ee984c1cbd6
   - 15bcf1a7543b
+  - 4cae0397fcdb
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36

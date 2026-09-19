@@ -549,6 +549,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -631,6 +632,7 @@ tools:
   - 8f8bef61fd0b
   - 94ae400dde2f
   - afb90d3485df
+  - d258720d9a42
   - d3ea0ba3d066
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -695,6 +697,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

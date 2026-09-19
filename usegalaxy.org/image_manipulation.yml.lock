@@ -13,6 +13,7 @@ tools:
   owner: bgruening
   revisions:
   - 506a90ab5581
+  - fc43cdc81408
   tool_panel_section_id: image_manipulation
   tool_panel_section_label: Image Manipulation
 - name: imagemagick_image_compare

@@ -231,6 +231,7 @@ tools:
 - name: bcftools_annotate
   owner: iuc
   revisions:
+  - 06eaadeffb7d
   - 0f087051441e
   - 2436e3bef247
   - 2c372041ed8c
@@ -432,6 +433,7 @@ tools:
   - 147de996e34f
   - 8aa352093d73
   - 92182c270ce4
+  - 9a260f6fab93
   - a87ae767b01d
   - d3081540d175
   - d6dc477167f8
@@ -444,6 +446,7 @@ tools:
   revisions:
   - 05f317e50e61
   - 08296952d12f
+  - 2844fbbcaa92
   - 5ee777f9db23
   - 74303445f6bd
   - 81426b3cf18b
@@ -556,7 +559,9 @@ tools:
   owner: iuc
   revisions:
   - 1ca7418e46ee
+  - 262d695b5456
   - 271965b55437
+  - 5226c31ac6d3
   - 6deb4d549bc9
   - a62e934346f5
   - aaac3ed89508

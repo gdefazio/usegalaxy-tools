@@ -233,6 +233,7 @@ tools:
   - 41027ee435c2
   - 4f85da43b40c
   - 8994fea8fbde
+  - 8fbb0629a99d
   - 91eee66904fe
   - b095c69eab5b
   - b0f07e3d6f07
@@ -336,6 +337,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -529,6 +531,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -683,6 +686,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

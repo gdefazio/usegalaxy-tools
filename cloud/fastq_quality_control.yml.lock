@@ -15,6 +15,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 94b6bea727ae
   - 97255f6fdf7e
   - 9a913cdee30e
   - a7e081ceb76a
@@ -38,6 +39,7 @@ tools:
   - 350c736075eb
   - 36be11c58dac
   - 4557b2da9e7f
+  - 4990e6f1348f
   - 65b93b623c77
   - 68386e630362
   - 8276962186f2
@@ -66,6 +68,7 @@ tools:
   owner: pjbriggs
   revisions:
   - 75a3b8da8e76
+  - 7bbc3fad1d3b
   - b9aaed85cbd1
   - d94aff5ee623
   tool_panel_section_id: fastq_quality_control

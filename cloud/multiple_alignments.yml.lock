@@ -62,6 +62,7 @@ tools:
   owner: devteam
   revisions:
   - 5b097fde95dd
+  - baa38def0230
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mafft
@@ -74,6 +75,7 @@ tools:
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
   revisions:
+  - 0a60a6d93d3b
   - 1bc9b91a91fd
   - b174c3405549
   tool_panel_section_id: multiple_alignments

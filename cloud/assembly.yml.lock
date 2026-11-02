@@ -52,11 +52,13 @@ tools:
   - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
+  - cbc516cee202
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
   owner: iuc
   revisions:
+  - 792acb18fb24
   - ab208c87d973
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

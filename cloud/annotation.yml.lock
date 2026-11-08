@@ -39,6 +39,7 @@ tools:
   revisions:
   - 507d59b036c5
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: bakta
@@ -46,6 +47,7 @@ tools:
   revisions:
   - 1942e86e2ee1
   - 292eea8defa7
+  - c03be23045b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: repeatmodeler
@@ -90,6 +92,7 @@ tools:
   owner: iuc
   revisions:
   - 2b9b64614d0c
+  - c8913c72ee87
   - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
@@ -141,6 +144,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -148,6 +152,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -180,6 +185,7 @@ tools:
   revisions:
   - 31f96c801f61
   - 321ceb58023e
+  - d0f5d9821854
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: vg_paths

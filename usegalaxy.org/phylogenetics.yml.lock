@@ -464,11 +464,13 @@ tools:
   owner: iuc
   revisions:
   - 5c223e491b89
+  - a7e87e1dc16c
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_dms
   owner: iuc
   revisions:
+  - 83ae0dc4e415
   - 9e514c265361
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -476,23 +478,27 @@ tools:
   owner: iuc
   revisions:
   - 28933de74e66
+  - a3bdfa7ec71b
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_phenotype
   owner: iuc
   revisions:
   - 40238aafdc08
+  - 9657a1d773c6
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_disease
   owner: iuc
   revisions:
+  - 3e7184c1712f
   - ddeb2d3ab617
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_splits
   owner: iuc
   revisions:
+  - 580c5226634d
   - a9e2ba068e99
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
@@ -500,17 +506,20 @@ tools:
   owner: iuc
   revisions:
   - 112587a146bb
+  - b27bda4c1a41
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_filter
   owner: iuc
   revisions:
   - 08dbe7e63422
+  - fc535390914d
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
 - name: hyphaeon_list_models
   owner: iuc
   revisions:
+  - 0fc3b80756c0
   - d5990d612224
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
